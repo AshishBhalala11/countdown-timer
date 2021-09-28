@@ -15,7 +15,7 @@ body{
     min-height: 100vh;
 }
 
-/* #custom-date{
+#custom-date{
     position: fixed;
     right: 10px;
     top: 10px;
@@ -34,7 +34,7 @@ body{
     font-size: 15px;
     color: black;
     padding: 5px;
-} */
+}
 
 h1{
     font-size: 4rem;
